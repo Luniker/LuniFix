@@ -1,0 +1,4 @@
+name: LuniFix
+version: 1.0
+main: net.luniker.lunifix.LuniFix
+api-version: 1.15
